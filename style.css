@@ -1,0 +1,94 @@
+/* Basic Style */
+.html {
+  font-size: 100%;
+  line-height: 1.5rem;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  background-color: black;
+}
+
+.body {
+  margin: 0 auto;
+  padding: 0;
+  min-height: 100%;
+  max-height: 100%;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin: 15px;
+  margin-right: 40px;
+  color: white;
+  font-size: 20px;
+  flex-wrap: wrap;
+  
+  ;
+}
+
+.home-img {
+  width: 350px;
+  height: 350px;
+}
+.me-img {
+  width: 350px;
+  height: 350px;
+}
+
+.code-img {
+  width: 350;
+  height: 350;
+}
+
+body {
+  background-color: black;
+}
+
+.Intro {
+  color: white;
+  font-size: 35px;
+}
+
+h1 {
+  color: aquamarine;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h2{
+  color: aquamarine;
+  justify-content: center;
+}
+
+.who {
+  color: white;
+  flex-wrap: wrap;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+  border-radius: 25px;
+}
+
+
+.contact ul {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    
+}
+.contact ul li {
+   list-style-type: none;
+    color: white;
+  text-align: center;
+  font-size: 20px;
+  margin: 20px;
+
+
+  
+}
+
